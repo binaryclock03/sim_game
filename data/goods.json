@@ -1,0 +1,4 @@
+[
+    {"ID": "grain", "Name": "Grain", "Volume": 0.1, "PackingDensity": 1, "Phase": 0, "InateTraits": []}, 
+    {"ID": "flour", "Name": "Flour", "Volume": 0.1, "PackingDensity": 1, "Phase": 0, "InateTraits": []}
+]

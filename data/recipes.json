@@ -1,0 +1,3 @@
+[
+    {"ID": "millGrain", "Name": "Mill Grain", "Inputs": {"grain": 5}, "Outputs": {"flour": 4}, "CycleTime": 10}
+]
